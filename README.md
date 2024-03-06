@@ -23,8 +23,15 @@ The script files above are references to hosted versions of the script so any ve
 
 **DynaFix Notes Version History**
 
-v1.15
-- Disabled client portal link on request from Management
+v1.15.04
+- Client portal access is now restricted to selected Teams
+- Disabled client portal link on request from Management (working on bringing this back with some additional security)
+- Formatting changes. Moved the Case Ref, Company and case title out of the window title bar and moved it below also added contact name. The are now selectable so can copy and paste.
+- Each element of the above text has a different colour to help differentiate them.
+- FIX the original case view now scrolls to top after DynaFix is run
+- FIX an issue with attachments being in a never ending loop causing browser stability issues
+- FIX an issue with attachments not creating the correct url. This appeared to be due to the case title changing.
+- Added DynaFix Notes title to popup window with version number
 
 v1.14.08
 - Added client portal links to case screen next to contact and from the notes popup
@@ -139,6 +146,9 @@ FEATURES TO ADD
 - Check if URL alert and where it resolves and give it as info in case
 - Turn ANS Case ref's into links in descr and notes ie inc123456 becomes a link to the case
 - Add additional script for jquery location for redundancy
+- Sometimes open case bookmark doesnt work and think its due to Dynamics timing out check to see if I can get an error to display
+- Add quick way to delete filter eg x button
+- Add a copy button next to Ref, company and contact
 
 Additional Notes:
 - If you want to view the code paste it into a javascript editor like notepad++ and then from the menu bar click (Language > J > Javascript) this will colour code everything to make it more readable
