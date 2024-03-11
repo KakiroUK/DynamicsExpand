@@ -22,6 +22,7 @@ javascript:(function (){document.getElementsByTagName('head')[0].appendChild(doc
 The script files above are references to hosted versions of the script so any version upgrades will automatically be applied
 
 **DynaFix Notes Version History**
+
 v1.16.01
 - Added fixes for the incident DynaFart. The one where they reverted loads of changes they made to fix an issue
 - Loads secure and private notes direct from the web api
