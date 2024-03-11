@@ -23,7 +23,7 @@ The script files above are references to hosted versions of the script so any ve
 
 **DynaFix Notes Version History**
 
-v1.16.01
+v1.16.02
 - Added fixes for the incident DynaFart. The one where they reverted loads of changes they made to fix an issue
 - Loads secure and private notes direct from the web api
 - FIX Wordwrap and linebreaks in note divs
