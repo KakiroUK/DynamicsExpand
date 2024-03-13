@@ -23,6 +23,10 @@ The script files above are references to hosted versions of the script so any ve
 
 **DynaFix Notes Version History**
 
+v1.17.01
+- Added "New Note" button to the notes popup
+- FIX Stop a neverending loop from loading the notes popup
+
 v1.16.02
 - Added fixes for the incident DynaFart. The one where they reverted loads of changes they made to fix an issue
 - Loads secure and private notes direct from the web api
@@ -137,7 +141,7 @@ KNOWN BUGS
 
 FEATURES TO ADD
 - Load case notes direct from web api?
-- Add Secure/Private notes from DynaFix div
+- Add Secure/Private notes from DynaFix div by web api for a cleaner implemtation
 - Case list by updated date?
 - Client Portal - Check subcatgeory of ticket and move you to the correct location in client portal?
 - Client Portal - Check description/private note for i-******** and change text to link
