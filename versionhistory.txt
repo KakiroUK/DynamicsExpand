@@ -1,5 +1,6 @@
 v1.18.01
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
+- Added redundancy for jQueryUI JS if CloudFlare CDN is down
 - Added version history button
 
 v1.17.07
