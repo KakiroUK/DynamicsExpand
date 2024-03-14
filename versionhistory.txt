@@ -1,5 +1,3 @@
-**DynaFix Notes Version History**
-
 v1.18.01
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
 - Added version history button
