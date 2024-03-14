@@ -2,6 +2,7 @@
 
 v1.18.01
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
+- Added version history button
 
 v1.17.07
 - Added "New Note" button to the notes popup
@@ -14,6 +15,7 @@ v1.17.07
 - FIX Stop a neverending loop from loading the notes popup
 
 v1.16.02
+- Client portal access is now disabled until management decide on a more secure implementation
 - Added fixes for the incident DynaFart. The one where they reverted loads of changes they made to fix an issue
 - Loads secure and private notes direct from the web api
 - FIX Wordwrap and linebreaks in note divs
