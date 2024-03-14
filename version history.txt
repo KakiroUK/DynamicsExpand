@@ -1,0 +1,106 @@
+**DynaFix Notes Version History**
+
+v1.18.01
+- Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
+
+v1.17.07
+- Added "New Note" button to the notes popup
+- Added refresh button
+- FIX Remove show more emails links
+- FIX Gets email body text for emails support sent
+- FIX support for apostrophe in contact and customer name
+- FIX stop duplicate secure/private note being loaded if Dynamics manages to load it itself
+- FIX Added check to make sure user is on Dynamcics and in a case
+- FIX Stop a neverending loop from loading the notes popup
+
+v1.16.02
+- Added fixes for the incident DynaFart. The one where they reverted loads of changes they made to fix an issue
+- Loads secure and private notes direct from the web api
+- FIX Wordwrap and linebreaks in note divs
+
+v1.15.04
+- Client portal access is now restricted to selected Teams
+- Disabled client portal link on request from Management (working on bringing this back with some additional security)
+- Formatting changes. Moved the Case Ref, Company and case title out of the window title bar and moved it below also added contact name. The are now selectable so can copy and paste.
+- Each element of the above text has a different colour to help differentiate them.
+- FIX the original case view now scrolls to top after DynaFix is run
+- FIX an issue with attachments being in a never ending loop causing browser stability issues
+- FIX an issue with attachments not creating the correct url. This appeared to be due to the case title changing.
+- Added DynaFix Notes title to popup window with version number
+
+v1.14.08
+- Added client portal links to case screen next to contact and from the notes popup
+- Added functionality to the above client portal link so it forwards you to the case category in the client area
+- Some style changes to the Filter and Client Portal bar
+- FIX Prevent notes popup being moved out of view completely
+- FIX Multiple contacts with same name on same account but one some without ANS portal access
+- Show Error if unable to generate client portal link
+
+v1.13
+- Changed scripts to load an external .js file from web host to ensure going forward everyone is using the same latest version
+- Added support for customising note colours from bookmark script
+
+v1.12.03
+- Made note colours easily configurable by adding them as variables at top of page
+- Checks to see if other engineers have case open and displays an alert
+- Added in failsafe for attaching files limit 100
+- Added filter field at top of notes popup
+- Fix with multiple clicking bookmark  on same case adding extra text to note title
+- Added some base encoding to sensitive text
+
+v1.11
+- Changed note colours so they arent so in your face (seperated as a new branch)
+
+v1.10
+- Buggy experimental code that didnt work don't use
+
+v1.09
+- Added from the popup note screen uploaded attachments are now clickable to open them rather than using "Glass 2 Files" tab
+- FIX Added some pretext " - " before "Created on" to note title so its format is cleaner
+- FIX Some if statements checking if an element existed werent working
+- Removed the funtionality that moves the on hold section to top of page as theres a bug with it that needs sorting
+
+v1.08
+- Description at end of notes now styled
+- FIX emails from us sometimes missing the email body because they appear in an iframe and contents aren't copied over
+- FIX Removed some more icons
+- FIX Notes popup div gets focus and allows keyboard scrolling
+- Move created on line to end of Note Type to reduce screen realestate of notes
+
+v1.07
+- Fix for emails from us being wrongly colour coded
+- Removed html tags from email updates to make those notes more readable
+- Color of notes popup title bar changed
+
+v1.06
+- Added case note title ie Secure Update, Private Update, Glass as BOLD
+
+v1.05
+- Added red colour for private cases
+- Fixed colour for customer emailing us being blue instead of grey
+- Changed all text to white and made ANS responses dark grey so it works well for either Dark mode or Classic themed Dynamics
+
+v1.04
+- Move "On hold" section above "Work in Progress"
+
+v1.03
+- Remove icons just above note as it just extra padding
+- Remove View less below notes as in this popup div its not needed
+- Notes popup div now inline with messenger chat bubbles format as in blue for you (ANS) and default dark grey to Customer
+
+v1.02
+- Fix for firefox
+- Added some border colors to divs so the popup div is more easily viewable on Dynamics white color theme
+
+V1 Features
+- Automatically clicks "load more" to get all notes on screen at same time
+- Automatically clicks "expand all" so you can see the full case notes
+- Scrolls to top once finishing all the auto clicks
+- Removes all notes from ANS support as these are usually just useless/duplicate information when wanting to read notes
+- Uses the "Search Articles" div that appears on every case and instead makes this a popup div thats draggable and has close button. This div now displays all the notes over the case screen which is below for easy reference.
+- Close button changes color when hovering
+- Popup div title bar allows dragging
+- After 100 seconds of clicking "load more"'s then it aborts the script this is a failsafe to stop it running forever
+- Added Case title, ref no and customer name to popup title bar
+- Added Description to end of notes so it appears in chronological order
+
