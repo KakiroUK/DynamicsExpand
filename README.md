@@ -23,9 +23,11 @@ The script files above are references to hosted versions of the script so any ve
 
 **DynaFix Notes Version History**
 
-v1.17.06
+v1.17.07
 - Added "New Note" button to the notes popup
 - Added refresh button
+- FIX Remove show more emails links
+- FIX Gets email body text for emails support sent
 - FIX support for apostrophe in contact and customer name
 - FIX stop duplicate secure/private note being loaded if Dynamics manages to load it itself
 - FIX Added check to make sure user is on Dynamcics and in a case
