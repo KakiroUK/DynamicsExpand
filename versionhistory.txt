@@ -1,4 +1,5 @@
-v1.18.02
+v1.18.03
+- Modified refresh button to only refresh notes timeline
 - Added copy button next to case, company, contact
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
 - Added redundancy for jQueryUI JS if CloudFlare CDN is down
