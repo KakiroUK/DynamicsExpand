@@ -42,26 +42,6 @@ KNOWN BUGS
 - In rare occasions the note popup title bar is not draggable however if you click the bookmark again it fixes it
 - Also some rare occasions the "Load More" at the bottom of page might not complete them all again clicking bookmark again should solve
 
-FEATURES TO ADD
-- Load case notes direct from web api?
-- Add Secure/Private notes from DynaFix div by web api for a cleaner implemtation
-- Case list by updated date?
-- Client Portal - Check subcatgeory of ticket and move you to the correct location in client portal?
-- Client Portal - Check description/private note for i-******** and change text to link
-- Ecloud VPC - Check private note for instanceid text then get IP, username, password and add it to private note. This would need VPC API access.
-- Client Portal - Extra link to login with primary contact instead of current contact?
-- Remove email warning and make sure email content text is white also Example INC634090
-- Hide undeliverable messages
-- Check if URL alert and where it resolves and give it as info in case
-- Turn ANS Case ref's into links in descr and notes ie inc123456 becomes a link to the case
-- Add additional jquery script location for redundancy
-- Sometimes open case bookmark doesnt work and think its due to Dynamics timing out check to see if I can get an error to display
-- Add quick way to delete filter eg x button
-- Add a copy button next to Ref, company and contact
-- Beautify alert that someone else has this case open already
-- Add filter BUTTONS to filter on types of notes
-- Convert this into a chrome extension so it loads automatically when viewing cases or alternatively displays a button on case view page that when you click does the same as the bookmarklet
-
 Additional Notes:
 - If you want to view the code paste it into a javascript editor like notepad++ and then from the menu bar click (Language > J > Javascript) this will colour code everything to make it more readable
 - Can I make a quick way to progress a case when you open it initially?
