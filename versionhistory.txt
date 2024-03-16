@@ -1,4 +1,10 @@
-v1.18.03
+v1.18.04
+- Added filter buttons (all, private, coms)
+- Changed filter input box from text to search so it now has clear button
+- Added tooltip popup when over case title to show case description
+- Moved popup notes to be higher
+- New buttons now change pointer when mouse hoverover
+- FIX File uploads notes were had wrong colour (support not customer)
 - Modified refresh button to only refresh notes timeline
 - Added copy button next to case, company, contact
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
