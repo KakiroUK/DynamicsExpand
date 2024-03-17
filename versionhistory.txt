@@ -4,8 +4,11 @@ v1.18.06
 - Added tooltip popup when over case title to show case description
 - Moved popup notes to be higher
 - New buttons now change pointer when mouse hoverover
+- Updated some styling of elements
 - FIX File uploads notes were had wrong colour (support not customer)
 - FIX Removed duplicate of Date on notes
+
+v1.18.04
 - Modified refresh button to only refresh notes timeline
 - Added copy button next to case, company, contact
 - Changed notes popup from using knowledge search articles div into its own div. Stop issues later on in case we need it.
