@@ -1,10 +1,13 @@
-v1.18.07
+v1.18.09
+- Added "+ Private Note" function that opens note in a div, also refreshes notes after
 - Added note tabs to filter on all, private, coms
-- Filter input box now shows clear button once text has been typed
+- Added minimise button to shrink notes popup
 - Added tooltip popup when over case title to show the case description
+- Filter input box now shows clear button once text has been typed
 - Moved popup notes to be higher on screen
-- Added css for buttons now change pointer when mouse hovers over
 - Updated some styling of elements such as buttons/tabs
+- Added css for buttons now change pointer when mouse hovers over
+- Added a check for Glass2Files custom before trying to add attachment links (ready for dev team removal)
 - FIX File uploads notes had wrong colour (support not customer)
 - FIX Removed duplicate date text on notes
 - Restructured code for easier reading
