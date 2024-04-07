@@ -1,4 +1,6 @@
-v1.18.11
+v1.18.13
+- Added scroll to top button at bottom
+- FIX issue with description not always loading
 - Removed attachements links code as it was using Glass2File which has since been disabled by the devs
 
 v1.18.09
