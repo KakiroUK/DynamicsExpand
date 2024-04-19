@@ -1,3 +1,6 @@
+v1.18.14
+- Added a fix so html code pasted inside of description is not run.
+
 v1.18.13
 - Added scroll to top button at bottom
 - FIX issue with description not always loading
