@@ -47,11 +47,5 @@ Edge instructions:
 6. Paste the contents of the script file above into the URL field
 7. Click Save
 
-KNOWN BUGS
-- In rare occasions the note popup title bar is not draggable however if you click the bookmark again it fixes it
-- Also some rare occasions the "Load More" at the bottom of page might not complete them all again clicking bookmark again should solve
-
 Additional Notes:
 - If you want to view the code paste it into a javascript editor like notepad++ and then from the menu bar click (Language > J > Javascript) this will colour code everything to make it more readable
-- Can I make a quick way to progress a case when you open it initially?
-- Add refresh bookmarklet for the main case screen to click refresh every 60secs?
