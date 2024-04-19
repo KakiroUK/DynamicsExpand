@@ -38,6 +38,15 @@ Chrome instructions:
 4. Paste the contents of the script file above into the URL field
 5. Click Save
 
+Edge instructions:
+1. Press ctrl+shift+b if your bookmark bar is not already showing.
+2. Right click anywhere in empty space of the bookmark bar at the top under the address bar, click "Add this page to favourites"
+3. Change the name (this can be of your choosing) e.g. DynaFix: Notes
+4. Click Done
+5. Right click the newly created favourite and click edit
+6. Paste the contents of the script file above into the URL field
+7. Click Save
+
 KNOWN BUGS
 - In rare occasions the note popup title bar is not draggable however if you click the bookmark again it fixes it
 - Also some rare occasions the "Load More" at the bottom of page might not complete them all again clicking bookmark again should solve
