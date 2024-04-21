@@ -1,3 +1,5 @@
+These are likely the last additions to DynaFix as I am being made redundant unless someone else wants to take over the project
+
 v1.18.16
 - Added ability to edit private notes
 
