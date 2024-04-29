@@ -1,5 +1,5 @@
 ### INSTALL INSTRUCTIONS
-**Dynamics case notes formatting script**
+**Dynamics case notes formatting script AKA DynaFix**
 1. [Create bookmark](#create-bookmark) in browser of choice. Doesnt matter if the bookmark is blank or to an existing page as you will edit it.
 2. Then rename the bookmark name to something like "DynaFix: Notes"
 3. In the URL/location field remove the current value and copy and paste the below line:  
