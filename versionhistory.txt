@@ -1,4 +1,4 @@
-These are likely the last additions to DynaFix as I am being made redundant unless someone else wants to take over the project in which case message me on Teams or send an email to kakiro.kevin@gmail.com
+These are likely the last additions to DynaFix as ANS no longer able to employ overseas remote workers. If someone else wants to take over the project message me on Teams or send an email to kakiro.kevin@gmail.com
 
 v1.18.16
 - Added ability to edit private notes
