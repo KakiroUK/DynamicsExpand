@@ -1,5 +1,8 @@
 These are likely the last additions to DynaFix as ANS no longer able to employ overseas remote workers. If someone else wants to take over the project message me on Teams or send an email to kakiro.kevin@gmail.com
 
+v1.18.19
+- Added ability to open attachments from notes back in
+
 v1.18.18
 - Added DynaFix as a script that keeps running in background and a button to disable/enable if needed.
 
