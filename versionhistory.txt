@@ -1,4 +1,4 @@
-These are likely the last additions to DynaFix as ANS no longer able to employ overseas remote workers. If someone else wants to take over the project message me on Teams or send an email to kakiro.kevin@gmail.com
+These are likely the last additions to DynaFix from myself Kevin Malone, if someone else wants to take over the project message me on Teams or send an email to my personal email kakiro.kevin@gmail.com
 
 v1.18.20
 - FIX Added an additional check for notes have been expanded to resolve a bug where the notes stay collapsed
