@@ -1,9 +1,11 @@
 These are likely the last additions to DynaFix from myself Kevin Malone, if someone else wants to take over the project message me on Teams or send an email to my personal email kakiro.kevin@gmail.com
 
-v1.18.21
+v1.18.22
+- Added status:open button so you can progress case when its in open state
 - FIX Changed an error alert to console log to avoid annoying popup when refreshing
 - FIX Stopped the Notes popup from resetting to default position when refreshing notes
 - FIX Stopping/starting Dynafix from button in menu now resets the notes popup to hide/show
+- FIX Further checks whilst loading notes to check the notes have been expanded so they don't show "Show More"
 
 v1.18.20
 - FIX Added an additional check for notes have been expanded to resolve a bug where the notes stay collapsed
