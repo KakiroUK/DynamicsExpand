@@ -1,7 +1,9 @@
 These are likely the last additions to DynaFix from myself Kevin Malone, if someone else wants to take over the project message me on Teams or send an email to my personal email kakiro.kevin@gmail.com
 
-v1.18.22
+v1.18.23
 - Added status:open button so you can progress case when its in open state
+- Removed some padding on Save/Refresh/Back nav bar on normal Dynamics
+- Notes popup now appears a little lower to show Save/Refresh/Back nav bar on normal Dynamics above it for easy clicking
 - FIX Changed an error alert to console log to avoid annoying popup when refreshing
 - FIX Stopped the Notes popup from resetting to default position when refreshing notes
 - FIX Stopping/starting Dynafix from button in menu now resets the notes popup to hide/show
