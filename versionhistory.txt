@@ -1,8 +1,9 @@
 These are likely the last additions to DynaFix from myself Kevin Malone, if someone else wants to take over the project message me on Teams or send an email to my personal email kakiro.kevin@gmail.com
 
-v1.18.24
+v1.18.25
 - Added easy buttons to notes to auto fill 1/15/30/60 mins
 - Added Case status buttons to top of notes
+- Added template holding response to secure tickets
 
 v1.18.23
 - Added button for OpenCase to Dynamics navbar
