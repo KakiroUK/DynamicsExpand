@@ -1,6 +1,8 @@
 These are likely the last additions to DynaFix from myself Kevin Malone, if someone else wants to take over the project message me on Teams or send an email to my personal email kakiro.kevin@gmail.com
 
 v1.18.30
+- FIX for DF Notes not showing if screen refreshed using Dynamics refresh button
+- FIX for DF Notes not showing when going out and back in to same case
 - FIX for private notes not saving when used just after creating new case, due to case not having any Team assigned
 - FIX for secure note showing error on saving due to errorneous code I implemeneted for another fix
 
